@@ -1,0 +1,6 @@
+audio_root: /home/haoy/da33_scratch/haoy/data/cv-corpus-6.1-2020-12-11/en/clips
+bpe_tokenizer:
+  bpe: sentencepiece
+  sentencepiece_model: /fs03/da33/haoy/s3prl/s3prl/data/covost_en_de/spm-tgt_text.model
+use_audio_input: true
+vocab_filename: spm-tgt_text.txt
