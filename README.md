@@ -15,10 +15,12 @@ python3 run_downstream.py -n ExpName -m train -u wav2vec2_hug_large_ll60k -d [ta
 ```
 ## Citation
 ```
-@article{yang2023investigating,
-  title={Investigating Pre-trained Audio Encoders in the Low-Resource Condition},
-  author={Yang, Hao and Zhao, Jinming and Haffari, Gholamreza and Shareghi, Ehsan},
-  journal={arXiv preprint arXiv:2305.17733},
-  year={2023}
+@inproceedings{yang23d_interspeech,
+  author={Hao Yang and Jinming Zhao and Gholamreza Haffari and Ehsan Shareghi},
+  title={{Investigating Pre-trained Audio Encoders in the Low-Resource Condition}},
+  year=2023,
+  booktitle={Proc. INTERSPEECH 2023},
+  pages={1498--1502},
+  doi={10.21437/Interspeech.2023-343}
 }
 ```
